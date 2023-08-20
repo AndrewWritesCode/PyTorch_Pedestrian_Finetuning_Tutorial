@@ -10,5 +10,7 @@ https://www.cis.upenn.edu/~jshi/ped_html/
 
 extract dataset to "PennFudanPed" folder in working directory
 
+environment.yml contains an anaconda environment for the model
+
 KNOWN ISSUE:
 model gets stuck with Assertion Error during evaluate step
